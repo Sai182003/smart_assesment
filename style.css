@@ -1,0 +1,48 @@
+body{
+    background-color: #5865f2;
+    background-image: url('images/bk-3.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1{
+    padding-top: 10%;
+    color: white;
+    font-size: 4rem;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
+.btn{
+    margin: 5% 3% 5% 0;
+    color: white;
+    
+    margin-left: 15%;
+}
+.btn1{
+    margin: 5% 3% 5% 0;
+
+    position: absolute;
+    left: 40%;
+
+}
+.btn a,.btn1.a{
+    color: white;
+    text-decoration: none;
+}
+.lorem{
+    width: 40%;
+    margin: 0px auto 0px auto;
+    font-size: 3rem;
+}
+.link{
+    margin: 5% 3% 5% 0;
+    color: white;
+    position: absolute;
+    left: 40%;
+
+    list-style: none;
+    
+}
